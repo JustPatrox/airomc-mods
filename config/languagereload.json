@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "multilingualItemSearch": true,
+  "removableDefaultLanguage": false,
+  "fallbacks": [
+    "en_us",
+    "es_es"
+  ],
+  "previousFallbacks": [
+    "es_es",
+    "es_mx"
+  ],
+  "language": "es_mx",
+  "previousLanguage": "en_us"
+}

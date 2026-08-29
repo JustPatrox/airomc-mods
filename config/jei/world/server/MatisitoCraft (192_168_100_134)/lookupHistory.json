@@ -1,0 +1,23 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:firework_rocket","components":"{\"minecraft:fireworks\":{flight_duration:3b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancednetherite:netherite_diamond_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:green_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:blue_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:brown_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:pink_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:cyan_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:light_blue_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:light_gray_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tintedcampfires:yellow_campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:fir_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:null_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:null_end_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:null_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:null_plant"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:liquid_null_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:anomaly"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:iron_tier_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:emerald","components":"{\"travelersbackpack:starter_upgrades\":[{count:1,id:\"travelersbackpack:tanks_upgrade\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
