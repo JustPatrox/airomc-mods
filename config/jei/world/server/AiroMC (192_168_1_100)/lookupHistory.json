@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:firework_rocket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sugar_cane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:paper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:firework_rocket","components":"{\"minecraft:fireworks\":{flight_duration:2b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:firework_rocket","components":"{\"minecraft:fireworks\":{flight_duration:3b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tipped_arrow","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:fire_resistance\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

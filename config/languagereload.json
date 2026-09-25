@@ -3,13 +3,13 @@
   "multilingualItemSearch": true,
   "removableDefaultLanguage": false,
   "fallbacks": [
-    "en_us",
+    "es_mx",
     "es_es"
   ],
   "previousFallbacks": [
-    "es_es",
-    "es_mx"
+    "en_us",
+    "es_es"
   ],
-  "language": "es_mx",
-  "previousLanguage": "en_us"
+  "language": "en_us",
+  "previousLanguage": "es_mx"
 }

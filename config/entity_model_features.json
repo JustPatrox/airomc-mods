@@ -28,8 +28,10 @@
   "enforceOptifineSubFoldersVariantOnly": false,
   "enforceOptiFineAnimSyntaxLimits": true,
   "allowOptifineFallbackProperties": true,
+  "enforceOptiFineFloorUVs": true,
   "showReloadErrorToast": true,
   "exportRotations": false,
   "asmMaths": true,
-  "logASM": false
+  "logASM": false,
+  "parrotShoulderPositionAnimatesByDefault": true
 }

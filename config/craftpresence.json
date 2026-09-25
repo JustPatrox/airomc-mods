@@ -1,6 +1,6 @@
 {
   "_schemaVersion": 7,
-  "_lastMCVersionId": 767,
+  "_lastMCVersionId": 763,
   "generalSettings": {
     "detectATLauncherInstance": true,
     "detectCurseManifest": true,
@@ -135,7 +135,11 @@
     },
     "dynamicIcons": {
       "192.168.100.134": "https://api.mcsrvstat.us/icon/192.168.100.134",
-      "katherine-evaluate.tun.ply.gg": "https://api.mcsrvstat.us/icon/katherine-evaluate.tun.ply.gg"
+      "katherine-evaluate.tun.ply.gg": "https://api.mcsrvstat.us/icon/katherine-evaluate.tun.ply.gg",
+      "100.122.190.24": "https://api.mcsrvstat.us/icon/100.122.190.24",
+      "192.168.1.100": "https://api.mcsrvstat.us/icon/192.168.1.100",
+      "fireworktesting.aternos.me": "https://api.mcsrvstat.us/icon/fireworktesting.aternos.me",
+      "fireworktesting.feathermc.gg": "https://api.mcsrvstat.us/icon/fireworktesting.feathermc.gg"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

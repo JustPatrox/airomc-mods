@@ -1,6 +1,6 @@
 {
   "gamma": {
-    "value": 1.0,
+    "value": 15.0,
     "defaultGamma": 100,
     "toggledGamma": 1500,
     "updateToggle": false,
@@ -40,7 +40,7 @@
   },
   "nightVision": {
     "enabled": false,
-    "value": 100.0,
+    "value": 98.0,
     "toggledNightVision": 100,
     "updateToggle": false,
     "nightVisionStep": 2,

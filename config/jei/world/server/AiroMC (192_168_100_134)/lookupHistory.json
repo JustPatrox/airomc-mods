@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:rotten_flesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:netherite","components":"{\"travelersbackpack:starter_upgrades\":[{count:1,id:\"travelersbackpack:tanks_upgrade\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:dragon","components":"{\"travelersbackpack:starter_upgrades\":[{count:1,id:\"travelersbackpack:tanks_upgrade\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:wither","components":"{\"travelersbackpack:starter_upgrades\":[{count:1,id:\"travelersbackpack:tanks_upgrade\"}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bosses_of_mass_destruction:charged_ender_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:diamond_warglaive"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:netherite_warglaive","components":"{\"simplyswords:weapon_implicit\":{implicit_id:\"simplyswords:warglaive_double_strike\",value:15,weapon_type:\"simplyswords:warglaive\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
